@@ -34,7 +34,7 @@ education:
     institution: Columbia University
     year: 2018
   - course: BEng in Engineering (Civil)
-    institution: Birla Institute of Technology, Mesra
+    institution: Birla Institute of Technology, MESRA
     year: 2013
 
 # Social/Academic Networking
@@ -72,8 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-I am a graduate student currently in my final year at Stony Brook University. I aspire to develop intelligent systems capable of addressing the fundamental problem of developing algorithms that can harness the power of large structured and non-structured datasets to solve real-world problems. In my free time, you can usually find me playing badminton, watching anime or reading high-fantasy novels. I am an avid gamer having played "Age of Empires" and "Defence of the Ancients" semi-professionally, and I have diploma in playing Tabla (An Indian percussion intrument).
+I am a graduate student currently in my final year at Stony Brook University. I aspire to develop intelligent systems capable of addressing the fundamental problem of developing algorithms that can harness the power of large structured and non-structured datasets to solve real-world problems. In my free time, you can usually find me playing badminton, watching anime or reading high-fantasy novels. I am an avid gamer having played "Age of Empires" and "Defence of the Ancients" semi-professionally, and I have diploma in Tabla (An Indian percussion intrument).
 
-I am always looking for research opportunities to work in field of Artificial Intelligence as I genuinely believe that data has the power to significantly the future progress of humanity. 
+I am always looking for research opportunities to work in field of Artificial Intelligence as I genuinely believe that data has the power to significantly benefit the future progress of humanity. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
