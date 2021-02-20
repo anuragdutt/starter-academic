@@ -26,15 +26,15 @@
   url = "media/resume.pdf"
   weight = 40
 
-[[main]]
+  [[main]]
   name = "Experience"
   url = "#experience"
   weight = 50
 
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Skills"
+  url = "#skills"
   weight = 60
 
 
