@@ -32,9 +32,9 @@ feature:
   name: AWS
 
 - description:
-  icon: aws
-  icon_pack: fab
-  name: AWS
+  icon: code-branch
+  icon_pack: fas
+  name: Tensorflow/PyTorch
 
 
 - description:
